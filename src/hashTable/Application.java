@@ -53,9 +53,9 @@ public class Application {
         System.out.println("\tAntes da Remoção dos Alunos\n");
         table.printColision();
         
-        table.remove(students[0]);        
-        System.out.println("\n\t após a Remoção dos Alunos\n");
-        table.printColision();  
+       // table.remove(students[0]);        
+       // System.out.println("\n\t Após a Remoção dos Alunos\n");
+       // table.printColision();  
         
         System.out.println("\n\t\tFator de Carga 1\n");
         table_100.printColision();
